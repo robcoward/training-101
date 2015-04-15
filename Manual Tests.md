@@ -1,4 +1,4 @@
 # Manual Tests
 
 ## Test One
-Check that there are 3 nursery rhymes.
+Check that there are 4 nursery rhymes.
